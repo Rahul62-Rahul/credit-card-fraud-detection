@@ -55,5 +55,5 @@ This project focuses on detecting fraudulent credit card transactions using mach
 This project is for educational purposes only.
 
 ## 📞 Contact
-For any queries, reach out at [your-email@example.com].
+For any queries, reach out at [mallepogurahul62@gmail.com].
 
